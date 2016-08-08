@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <!-- Jaavascript ex1 - display a box which declares the phrase hello world -->
+  <head>
+  
+  </head>
+  <body>
+    <h1>Get User Input</h1>
+    <br/>
+    <br/>
+    <form>
+      <span> Enter some text:</span>
+        <input type="number" id="input1"/>
+          
+      
+    <br/>
+    <br/>
+
+    
+    <span> Enter some text:</span>
+      <input type="number" id="input2"/>
+      
+    <br/>
+    <br/>
+
+    
+    <span> Enter some text:</span>
+      <input type="number" id="input3"/>
+
+    </form>
+    <button id="button1">Click me</button>
+<!--  <button id="button2">Click me</button>-->
+    <br/>
+    <br/>
+  
+    <div id="demo"></div>
+      <script src="ex8b.js"></script>
+  </body>
+</html>
